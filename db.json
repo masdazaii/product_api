@@ -1,0 +1,123 @@
+{
+  "product" :[{
+  "id": 1,
+  "judul": "Wine - Beaujolais Villages",
+  "harga": "$6.01"
+}, {
+  "id": 2,
+  "judul": "Bread - Sour Sticks With Onion",
+  "harga": "$4.86"
+}, {
+  "id": 3,
+  "judul": "Dried Cranberries",
+  "harga": "$4.09"
+}, {
+  "id": 4,
+  "judul": "Cheese - Le Cru Du Clocher",
+  "harga": "$3.36"
+}, {
+  "id": 5,
+  "judul": "Flower - Commercial Bronze",
+  "harga": "$8.60"
+}, {
+  "id": 6,
+  "judul": "Turnip - Mini",
+  "harga": "$7.32"
+}, {
+  "id": 7,
+  "judul": "Sauce - Sesame Thai Dressing",
+  "harga": "$1.03"
+}, {
+  "id": 8,
+  "judul": "Pasta - Fusili Tri - Coloured",
+  "harga": "$9.64"
+}, {
+  "id": 9,
+  "judul": "Monkfish - Fresh",
+  "harga": "$3.71"
+}, {
+  "id": 10,
+  "judul": "Milk - Chocolate 500ml",
+  "harga": "$0.91"
+}, {
+  "id": 11,
+  "judul": "Mushroom - Porcini Frozen",
+  "harga": "$9.78"
+}, {
+  "id": 12,
+  "judul": "Sausage - Liver",
+  "harga": "$8.51"
+}, {
+  "id": 13,
+  "judul": "Shrimp - 16/20, Peeled Deviened",
+  "harga": "$2.05"
+}, {
+  "id": 14,
+  "judul": "Apples - Spartan",
+  "harga": "$3.92"
+}, {
+  "id": 15,
+  "judul": "Wine - White, Pinot Grigio",
+  "harga": "$9.98"
+}, {
+  "id": 16,
+  "judul": "Chips Potato Reg 43g",
+  "harga": "$9.81"
+}, {
+  "id": 17,
+  "judul": "Pears - Anjou",
+  "harga": "$4.78"
+}, {
+  "id": 18,
+  "judul": "Energy Drink",
+  "harga": "$2.21"
+}, {
+  "id": 19,
+  "judul": "Pasta - Cappellini, Dry",
+  "harga": "$6.11"
+}, {
+  "id": 20,
+  "judul": "Cheese - Victor Et Berthold",
+  "harga": "$1.72"
+}, {
+  "id": 21,
+  "judul": "Grouper - Fresh",
+  "harga": "$7.20"
+}, {
+  "id": 22,
+  "judul": "Marjoram - Fresh",
+  "harga": "$4.05"
+}, {
+  "id": 23,
+  "judul": "Cookies - Englishbay Wht",
+  "harga": "$8.22"
+}, {
+  "id": 24,
+  "judul": "Pepper - Red Bell",
+  "harga": "$6.79"
+}, {
+  "id": 25,
+  "judul": "General Purpose Trigger",
+  "harga": "$8.05"
+}, {
+  "id": 26,
+  "judul": "Nantucket - Kiwi Berry Cktl.",
+  "harga": "$2.34"
+}, {
+  "id": 27,
+  "judul": "Beef - Bones, Cut - Up",
+  "harga": "$2.10"
+}, {
+  "id": 28,
+  "judul": "Lamb Shoulder Boneless Nz",
+  "harga": "$7.34"
+}, {
+  "id": 29,
+  "judul": "Pastry - Banana Muffin - Mini",
+  "harga": "$1.43"
+}, {
+  "id": 30,
+  "judul": "Versatainer Nc - 8288",
+  "harga": "$7.57"
+}]
+}
